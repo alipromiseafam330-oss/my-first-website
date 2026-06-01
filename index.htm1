@@ -4,21 +4,46 @@
     <title>Ali's Portfolio</title>
 </head>
 
-<body style="font-family: Arial; text-align:center; background:#f4f4f4;">
+<body style="font-family: Arial, sans-serif; background:#f4f4f4; text-align:center; margin:0;">
 
-    <h1>Hello, I'm Ali 👋</h1>
+    <div style="background:#1e293b; color:white; padding:60px;">
+        <h1>Hello, I'm Ali 👋</h1>
+        <h2>AI Automation & Web Developer</h2>
+        <p>Building websites and AI solutions for businesses.</p>
+    </div>
 
-    <h2>AI Automation & Web Developer</h2>
+    <div style="padding:40px;">
+        <h2>About Me</h2>
+        <p>
+            I am learning web development and AI automation.
+            My goal is to help businesses automate tasks,
+            build websites, and improve productivity.
+        </p>
 
-    <p>
-        I am learning web development and AI automation.
-    </p>
+        <h2>Skills</h2>
 
-    <p>
-        Welcome to my first website hosted on GitHub Pages.
-    </p>
+        <p>✅ HTML</p>
+        <p>✅ GitHub</p>
+        <p>✅ Web Development</p>
+        <p>✅ AI Automation</p>
 
-    <button>Hire Me</button>
+        <h2>Projects</h2>
+
+        <div style="background:white; padding:20px; margin:20px auto; width:300px; border-radius:10px;">
+            <h3>My First Website</h3>
+            <p>Built and hosted using GitHub Pages.</p>
+        </div>
+
+        <h2>Contact Me</h2>
+
+        <p>Email: youremail@example.com</p>
+
+        <a href="https://github.com">
+            <button style="padding:12px 20px; background:#2563eb; color:white; border:none; border-radius:5px;">
+                View My GitHub
+            </button>
+        </a>
+    </div>
 
 </body>
 </html>
